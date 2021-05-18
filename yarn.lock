@@ -7628,8 +7628,7 @@ eslint-module-utils@^2.6.0:
     pkg-dir "^2.0.0"
 
 "eslint-plugin-ember-data@link:./packages/unpublished-eslint-rules":
-  version "0.0.0"
-  uid ""
+  version "3.29.0-alpha.3"
 
 eslint-plugin-ember@^10.3.0, eslint-plugin-ember@^10.4.1:
   version "10.4.1"
@@ -12702,10 +12701,10 @@ prettier@^2.2.1:
   resolved "https://registry.npmjs.org/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
   integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
 
-printf@^0.5.1:
-  version "0.5.3"
-  resolved "https://registry.npmjs.org/printf/-/printf-0.5.3.tgz#8b7eec278d886833312238b2bf42b2b6f250880a"
-  integrity sha512-t3lYN6vPU5PZXDiEZZqoyXvN8wCsBfi8gPoxTKo2e5hhV673t/KUh+mfO8P8lCOCDC/BWcOGIxKyebxc5FuqLA==
+printf@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.npmjs.org/printf/-/printf-0.6.1.tgz#b9afa3d3b55b7f2e8b1715272479fc756ed88650"
+  integrity sha512-is0ctgGdPJ5951KulgfzvHGwJtZ5ck8l042vRkV6jrkpBzTmb/lueTqguWHy2JfVA+RY6gFVlaZgUS0j7S/dsw==
 
 private@^0.1.6, private@^0.1.8:
   version "0.1.8"
@@ -14792,9 +14791,9 @@ testdouble@^3.2.6:
     theredoc "^1.0.0"
 
 testem@^3.0.3, testem@^3.2.0:
-  version "3.3.0"
-  resolved "https://registry.npmjs.org/testem/-/testem-3.3.0.tgz#355f47339aa04302da05f631ec9f417d577c010c"
-  integrity sha512-PFfiqOVJKdkhMJoTd6wFH82q4GAX12pTA8uPGPAZHlgIobo6iHskv/IeJVPAhWzfRVNWmRWs1WhmnlS0/3IDtg==
+  version "3.4.1"
+  resolved "https://registry.npmjs.org/testem/-/testem-3.4.1.tgz#9b30c96001d08e590827a96fec1adb5df81792f8"
+  integrity sha512-UhKbTAb8JF6xRoDXd0AL0wl+Rpmio6KN7q+Xv7O9fcuioAqOQQVCNyxkYrJaihUPRKGr/r8ZKtSGe/Gdkm3uGQ==
   dependencies:
     backbone "^1.1.2"
     bluebird "^3.4.6"
@@ -14817,14 +14816,14 @@ testem@^3.0.3, testem@^3.2.0:
     mustache "^3.0.0"
     node-notifier "^9.0.1"
     npmlog "^4.0.0"
-    printf "^0.5.1"
+    printf "^0.6.1"
     rimraf "^2.4.4"
     socket.io "^2.1.0"
     spawn-args "^0.2.0"
     styled_string "0.0.1"
     tap-parser "^7.0.0"
     tmp "0.0.33"
-    xmldom "^0.1.19"
+    xmldom "^0.6.0"
 
 text-extensions@^1.0.0:
   version "1.9.0"
@@ -15916,10 +15915,10 @@ xmlchars@^2.2.0:
   resolved "https://registry.npmjs.org/xmlchars/-/xmlchars-2.2.0.tgz#060fe1bcb7f9c76fe2a17db86a9bc3ab894210cb"
   integrity sha512-JZnDKK8B0RCDw84FNdDAIpZK+JuJw+s7Lz8nksI7SIuU3UXJJslUthsi+uWBUYOwPFwW7W7PRLRfUKpxjtjFCw==
 
-xmldom@^0.1.19:
-  version "0.1.31"
-  resolved "https://registry.npmjs.org/xmldom/-/xmldom-0.1.31.tgz#b76c9a1bd9f0a9737e5a72dc37231cf38375e2ff"
-  integrity sha512-yS2uJflVQs6n+CyjHoaBmVSqIDevTAWrzMmjG1Gc7h1qQ7uVozNhEPJAwZXWyGQ/Gafo3fCwrcaokezLPupVyQ==
+xmldom@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz#43a96ecb8beece991cef382c08397d82d4d0c46f"
+  integrity sha512-iAcin401y58LckRZ0TkI4k0VSM1Qg0KGSc3i8rU+xrxe19A/BN1zHyVSJY7uoutVlaTSzYyk/v5AmkewAP7jtg==
 
 xmlhttprequest-ssl@~1.5.4:
   version "1.5.5"
